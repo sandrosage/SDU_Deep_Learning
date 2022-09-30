@@ -1,0 +1,1 @@
+https://towardsdatascience.com/an-introduction-to-gradient-descent-and-backpropagation-81648bdb19b2
